@@ -38,10 +38,10 @@
     "winston": "latest"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "@types/node": "latest",
-    "nodemon": "latest",
-    "ts-node": "latest"
+    "typescript": "^4.1.3",
+    "@types/node": "14.14.14",
+    "nodemon": "^2.0.6",
+    "ts-node": "^9.1.1"
   },
   "repositories": [
     {
